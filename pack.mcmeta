@@ -1,6 +1,14 @@
 {
-   "pack": {
-      "pack_format": 64,
-      "description": "EVERYONE is HERE"
-   }
+    "pack": {
+        "description": [
+          {"text": "EVERYONE ", "color": "#fa965c"},
+          {"text": "§7is "},
+          {"text": "HERE !!", "color": "#fa965c"},
+          "\n",
+          {"text": "§7Top Tier Teamwork"},
+          {"text": "§f"}
+],
+        "min_format":75,
+        "max_format":99
+    }
 }
